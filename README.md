@@ -83,12 +83,6 @@ git clone https://github.com/your-username/your-repo-name.git
 
 ---
 
-## 📸 Demo
-
-(Add screenshots or your screen recording here)
-
----
-
 ## 📈 Future Improvements
 
 * 🔐 User authentication system
