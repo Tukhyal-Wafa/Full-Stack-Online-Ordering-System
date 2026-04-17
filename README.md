@@ -48,19 +48,6 @@ This project is a **Full Stack Online Order System** developed using frontend te
 
 ---
 
-## 📂 Project Structure
-
-```id="proj123"
-/project-folder
-│── index.html
-│── style.css
-│── script.js
-│── /assets
-│── /backend
-│── database.sql
-```
-
----
 
 ## ▶️ How to Run Locally
 
@@ -113,7 +100,7 @@ git clone https://github.com/your-username/your-repo-name.git
 
 ## 👨‍💻 Author
 
-Your Name
+Tukhyal Wafa
 
 ---
 
